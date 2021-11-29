@@ -10,6 +10,6 @@
 
 ***bold and italic***
 
-***Divya Konduru***
-
 [Google](https://www.google.com)
+
+![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtP0a-s8u3W-2cLORRfdoPc6YnNVCT0jsUCg&usqp=CAU)
